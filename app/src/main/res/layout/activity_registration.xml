@@ -49,8 +49,8 @@
             android:hint="@string/user_name"
             android:inputType="textPersonName"
             android:padding="10dp"
-            android:textSize="16sp"
             android:textColor="@color/darkblue"
+            android:textSize="16sp"
             tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></EditText>
 
 
@@ -61,11 +61,11 @@
             android:layout_marginTop="20dp"
             android:background="@color/white"
             android:ems="10"
-            android:textSize="16sp"
             android:hint="@string/password"
             android:inputType="textPassword"
             android:padding="10dp"
             android:textColor="@color/darkblue"
+            android:textSize="16sp"
             tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></EditText>
 
         <Button
