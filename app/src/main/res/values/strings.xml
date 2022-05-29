@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To-do</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Nicht registriert? <b>Registrieren</b></string>
+    <string name="user_name">Username</string>
+    <string name="password">Passwort</string>
+    <string name="register">Registrieren</string>
+    <string name="have_account">Registriert? <b>Login</b> </string>
+    <string name="logoutString">Sicher, dass du dich ausloggen möchtest?</string>
+</resources>

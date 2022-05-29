@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit"
+        android:title="Ändern"></item>
+
+    <item
+        android:id="@+id/delete"
+        android:title="Löschen"></item>
+
+    <item
+        android:id="@+id/complete"
+        android:title="Erledigen"></item>
+    <item
+        android:id="@+id/favorite"
+        android:title="Favorit"></item>
+    <item
+        android:id="@+id/share"
+        android:title="Teilen"></item>
+    <item
+        android:id="@+id/Save"
+        android:title="Speichern"></item>
+</menu>

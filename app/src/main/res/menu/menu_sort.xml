@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all"
+        android:title="Alle"></item>
+    <item
+        android:id="@+id/byDate"
+        android:title="Sortieren nach Datum"></item>
+    <item
+        android:id="@+id/byFavorite"
+        android:title="Sortieren nach Favorit"></item>
+    <item
+        android:id="@+id/byComplete"
+        android:title="Sortieren nach erledigt"></item>
+    <item
+        android:id="@+id/byNeededToday"
+        android:title="Sortieren nach tagesaktuell"></item>
+</menu>
